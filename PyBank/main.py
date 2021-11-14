@@ -2,7 +2,7 @@
 import csv
 import os
 
-# load and output
+# input and output data
 path = os.path.join("Users", "makar", "python-challenge", "PyBank", "Resources", "budget_data.csv")
 analysis = os.path.join("Users", "makar", "python-challenge","PyBank", "Analysis", "budget_analysis.txt")
 
